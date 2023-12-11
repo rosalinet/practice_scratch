@@ -1,0 +1,6 @@
+#This is the example hardware report file
+HOSTNAME=hostname
+MEMORY=memory_total_in_mb
+BIOS=bios_version
+DISK_SIZE_VDA=disk_size_of_vda
+DISK_SIZE_VDB=disk_size_of_vdb
